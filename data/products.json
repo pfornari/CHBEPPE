@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "title": "Cafetera Eléctrica",
+    "description": "Cafetera eléctrica con capacidad para 12 tazas, color negro",
+    "code": "CAF1234",
+    "price": 45.99,
+    "status": true,
+    "stock": 20,
+    "category": "Electrónica",
+    "thumbnail": "./imagen/cafetera.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Licuadora",
+    "description": "Licuadora de 5 velocidades, color blanco",
+    "code": "LIC5678",
+    "price": 35.5,
+    "status": true,
+    "stock": 20,
+    "category": "Electrónica",
+    "thumbnail": "./imagen/licuadora.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Tostadora",
+    "description": "Tostadora eléctrica para dos rebanadas, color plata",
+    "code": "TOS9012",
+    "price": 22.3,
+    "status": true,
+    "stock": 20,
+    "category": "Electrónica",
+    "thumbnail": "./imagen/tostadora.jpg"
+  }
+]
